@@ -3,7 +3,7 @@
     font-weight: 400;
     font-size: 32px;
     line-height: 150%;
-}
+ }
 
  body{
     background-color: #E5E5E5;
@@ -15,7 +15,7 @@
     margin-left: 40px;
     margin-bottom: 10px;
     background-image: url(imagenes/mano\.png);
-}
+ }
 
 .input-texto{
     margin-top: 60px;
