@@ -70,5 +70,79 @@
 }
 
 .imformacion{
+    font-size: 15px;}
+
+.cabezera{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+ body{
+    background-color: #E5E5E5;
+ }
+
+ main{
+    display:flex;
+    margin-right: 100px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    background-image: url(imagenes/mano\.png);
+}
+
+.input-texto{
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.mensaje{
+    position: relative;
+    margin-top: 60px;
+    margin-left: 90px;
+    background-image: url(imagenes/Muñeco.png);
+    background-repeat: no-repeat;
+    background-position: 18px;
+    background-size: 100px;
+}
+
+.copiar{
+    font-family:sans-serif;
+    display: flex;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 130px;
+    margin-bottom: 20px;
+    background-color: rgb(110, 110, 134);
+    color: white;
+    border-color: white;
+    border-style: ridge;
+}
+
+.botones {
+    font-family: fantasy;
+    display: flex;
+    margin-top: 10px;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.encriptar {
+    background-color: rgb(110, 110, 134);
+    color:white;
+    border-style: ridge;
+    border-color: white;
+}
+
+.desencriptar {
+    margin-left: 30px;
+    color:white;
+    background-color:rgb(110, 110, 134);
+    border-style: ridge;
+    border-color: white;
+}
+
+.imformacion{
     font-size: 15px;
 }
